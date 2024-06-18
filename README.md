@@ -32,7 +32,7 @@ I'd love the opportunity to connect and support you. Feel free to reach out to m
 📧 [nikamdarsh86@gmail.com](mailto:nikamdarsh86@gmail.com)
 
 <a href="https://in.linkedin.com/in/darsh86?trk=profile-badge" target="_blank">
-    <img src="https://raw.githubusercontent.com/matyo91/matyo91/master/assets/linkedin.png" alt="LinkedIn Profile" style="width:100px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Profile" style="width: 150px; height: auto;" />
 </a>
 
 
