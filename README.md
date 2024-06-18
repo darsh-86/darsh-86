@@ -30,8 +30,10 @@ I am committed to continuous learning and staying up-to-date with the latest tre
 I'd love the opportunity to connect and support you. Feel free to reach out to me at:
 
 📧 [nikamdarsh86@gmail.com](mailto:nikamdarsh86@gmail.com)
+
+<!---
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="darsh86" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/darsh86?trk=profile-badge">Darshan Nikam</a></div>
-              
+--->            
 
 Let's connect and explore how I can contribute to your organization's success. 🙂
 
