@@ -31,14 +31,9 @@ I'd love the opportunity to connect and support you. Feel free to reach out to m
 
 📧 [nikamdarsh86@gmail.com](mailto:nikamdarsh86@gmail.com)
 
-<!---
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="darsh86" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/darsh86?trk=profile-badge">Darshan Nikam</a></div>
---->            
+
+(<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="darsh86" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/darsh86?trk=profile-badge">Darshan Nikam</a></div>)
+           
 
 Let's connect and explore how I can contribute to your organization's success. 🙂
 
-
-<!---
-darsh-86/darsh-86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
