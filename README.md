@@ -31,9 +31,10 @@ I'd love the opportunity to connect and support you. Feel free to reach out to m
 
 📧 [nikamdarsh86@gmail.com](mailto:nikamdarsh86@gmail.com)
 
+<a href="https://in.linkedin.com/in/darsh86?trk=profile-badge" target="_blank">
+    <img src="https://raw.githubusercontent.com/matyo91/matyo91/master/assets/linkedin.png" alt="LinkedIn Profile" style="width:100px;"/>
+</a>
 
-(<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="darsh86" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/darsh86?trk=profile-badge">Darshan Nikam</a></div>)
-           
 
 Let's connect and explore how I can contribute to your organization's success. 🙂
 
