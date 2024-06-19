@@ -16,8 +16,9 @@ I'm passionate about continuous learning and staying current with DevOps trends 
 
 I'm excited to connect and explore how I can contribute to your projects.
 
-- 📧 Email: [nikamdarsh86@gmail.com](mailto:nikamdarsh86@gmail.com)                                                             <a href="https://in.linkedin.com/in/darsh86?trk=profile-badge" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Profile" style="width: 50px; height: 50px;" /> </a>
+📧 Email: [nikamdarsh86@gmail.com](mailto:nikamdarsh86@gmail.com)
+   <a href="https://in.linkedin.com/in/darsh86?trk=profile-badge" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Profile" style="width: 50px; height: 50px;" /> </a>
 ---
 
-Looking forward to collaborating and driving success together! 🚀
+## Looking forward to collaborating and driving success together! 🚀
 
