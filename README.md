@@ -18,9 +18,8 @@
 
 📧 Email: [nikamdarsh86@gmail.com](mailto:nikamdarsh86@gmail.com)
 
-<a href="https://in.linkedin.com/in/darsh86?trk=profile-badge" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Profile" style="width: 40px; height: 40px;" /> </a> 
-
-<a href="https://in.linkedin.com/in/darsh86?trk=profile-badge" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Profile" style="width: 40px; height: 40px;display=inline" /> </a>
+<a href="https://in.linkedin.com/in/darsh86?trk=profile-badge" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Profile" style="width: 40px; height: 40px;display=block" /> </a>  
+<a href="https://in.linkedin.com/in/darsh86?trk=profile-badge" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Profile" style="width: 40px; height: 40px;display=block" /> </a>
 ---
 
 **Looking forward to collaborating and driving success together!** 🚀
